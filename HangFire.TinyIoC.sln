@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFire.TinyIoC", "HangFire.TinyIoC.csproj", "{1D6B247B-B098-4654-9069-BC3C42CF5D67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFire.TinyIoC", "HangFire.TinyIoC\HangFire.TinyIoC.csproj", "{1D6B247B-B098-4654-9069-BC3C42CF5D67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFire.TinyIoC.Tests", "..\HangFire.TinyIoC.Tests\HangFire.TinyIoC.Tests.csproj", "{DC8C4B17-28F4-4910-AEBC-305BBAB48878}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFire.TinyIoC.Tests", "HangFire.TinyIoC.Tests\HangFire.TinyIoC.Tests.csproj", "{DC8C4B17-28F4-4910-AEBC-305BBAB48878}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{99D73545-6540-42B9-8AA7-7D80CEC95634}"
 	ProjectSection(SolutionItems) = preProject
