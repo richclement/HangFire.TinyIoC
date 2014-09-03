@@ -1,6 +1,8 @@
 HangFire.TinyIoC
 ================
 
+[![Build status](https://ci.appveyor.com/api/projects/status/o5fdyjwi1f38xjmm)](https://ci.appveyor.com/project/RichClement/hangfire-tinyioc)
+
 [HangFire](http://hangfire.io) background job activator based on [TinyIoC](https://github.com/grumpydev/TinyIoC) Container. It allows you to use instance methods of classes that define parameterized constructors
 
 Usage
