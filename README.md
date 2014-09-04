@@ -5,6 +5,15 @@ HangFire.TinyIoC
 
 [HangFire](http://hangfire.io) background job activator based on [TinyIoC](https://github.com/grumpydev/TinyIoC) Container. It allows you to use instance methods of classes that define parameterized constructors
 
+Installation
+------
+
+HangFire.TinyIoC is available as a NuGet Package. Type the following command into the Nuget package Manager Console window to install it:
+
+```
+Install-Package Hangfire.TinyIoC
+```
+
 Usage
 ------
 
